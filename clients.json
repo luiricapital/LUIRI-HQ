@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Españolerías",
+    "sector": "Restaurant",
+    "status": "active",
+    "domain": "espanolerias.com",
+    "contactName": "Monika Lopez",
+    "contactEmail": "info@espanolerias.com",
+    "contactPhone": "809-566-5315",
+    "sprite": "Pixel Art/Sprites/Espanolerias-Suspirito.png"
+  }
+]
