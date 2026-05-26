@@ -8,5 +8,16 @@
     "contactEmail": "info@espanolerias.com",
     "contactPhone": "809-566-5315",
     "sprite": "Pixel Art/Sprites/Espanolerias-Suspirito.png"
+  },
+  {
+    "name": "Boga Boga",
+    "sector": "Restaurant",
+    "status": "active",
+    "domain": "boga-boga-topaz.vercel.app",
+    "contactName": "",
+    "contactEmail": "",
+    "contactPhone": "",
+    "sprite": "Pixel Art/Sprites/Boga.png",
+    "pos": { "top": "65%", "left": "51%" }
   }
 ]
